@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Reshma Ramesh",
+    "occupation":"AWS DevOps Engineer",
+    "description":"Astute IT professional highly skilled experience in Amazon Web services CLI/Console and cloud computing services, skilled DevOps engineer with knowledge on CI/CD pipeline for efficient deployment using AWS & Dockers. Over 5+ years of consulting experience in technological sector with effective technical skills ensuring customer satisfaction at top most priority",
+    "image":"profilepic.jpg",
+    "bio":"I like to work a lot with computers and I am always curious about new technologies in the market. I have driven myself to be a deep-rooted learner. I like spending most of my time with my pet, I'm a Netflix series freak, a Picasso in the making and like to play to Cricket and go for a jog at times in the evening. ",
+    "contactmessage":"Buy me a coffee? or Let's talk!",
+    "email": "reshmaramesh1993@gmail.com",
+    "phone": "+(91) 8080867988",
+    "address":{
+      "street":"Suncity, Powai",
+      "city":"Mumbai",
+      "state":"Maharashtra",
+      "zip": "400076"
+    },
+    "website": "https://reshmaramesh.netlify.app",
+    
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/reshma.ramesh.3",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/rockingresh",
+        "className":"fa fa-twitter"
+      },
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/reshma-ramesh-7b3370102/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/this.is.resh",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Resh12345",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/reshmaramesh1993",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I showcase some of my skills where I'm really good at.",
+    "education":[
+      {
+        "school":"Mumbai University",
+        "degree":"Bachelor of Engineering in Electronics - A three-time Gold Medalist",
+        "graduated":"July 2015",
+        "description":"An important phase of my life where I developed my logical approach towards solving problems. Enhanced my hands-on experience with computer science and Electronics by eventually tunneling both to prepare my BE project successfully and pass it with distinction score. "
+      },
+      {
+        "school":"Kendriya Vidyalaya",
+        "degree":"AISSE/AISSCE",
+        "graduated":"2009/2011",
+        "description":"Guzzled a strong foundation in Physics, Chemistry and Mathematics i.e. the core subjects. I Had an immense learning experience and graduated with distinction in both the exams."
+      }
+    ],
+    "work":[
+      {
+        "company":"teradata",
+        "title":"Technical Associate",
+        "years":"Aug 2015 - Present",
+        "description":"Worked on a total of 9 corporate projects spanning over 5 years. Experienced Technical Associate having extensive command over teradata proprietary tools and updated on in-demand industry skills."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"AWS Lambda",
+        "level":"75%"
+      },
+      {
+        "name":"Docker",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"95%"
+      },
+      {
+        "name":"Serverless Computing",
+        "level":"87%"
+      },
+      {
+        "name":"Reactjs",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"93%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }}
+ 
